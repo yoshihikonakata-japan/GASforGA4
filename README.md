@@ -121,5 +121,3 @@ MIT License
 ## 参考資料
 
 - [Analytics Data API — サンプリング検出](https://developers.google.com/analytics/devguides/reporting/data/v1)  
-- [RunReportRequest — returnPropertyQuota](https://developers.google.com/analytics/devguides/reporting/data/v1/reference/rest/v1beta/RunReportRequest)  
-
